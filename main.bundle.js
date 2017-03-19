@@ -62,7 +62,7 @@ var SuggestCompleteFailAction = (function () {
     return SuggestCompleteFailAction;
 }());
 
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/suggest.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/suggest.js.map
 
 /***/ }),
 
@@ -105,7 +105,7 @@ FooterModule = __decorate([
     })
 ], FooterModule);
 
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/footer.module.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/footer.module.js.map
 
 /***/ }),
 
@@ -125,7 +125,7 @@ FooterModule = __decorate([
 
 
 
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/index.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/index.js.map
 
 /***/ }),
 
@@ -137,7 +137,7 @@ FooterModule = __decorate([
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_0__autolinker_config__["a"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return __WEBPACK_IMPORTED_MODULE_0__autolinker_config__["b"]; });
 
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/index.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/index.js.map
 
 /***/ }),
 
@@ -205,14 +205,14 @@ var RevertPaginationState = (function () {
     return RevertPaginationState;
 }());
 
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/pagination.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/pagination.js.map
 
 /***/ }),
 
 /***/ 269:
 /***/ (function(module, exports) {
 
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/api-response.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/api-response.js.map
 
 /***/ }),
 
@@ -255,7 +255,7 @@ NavbarModule = __decorate([
     })
 ], NavbarModule);
 
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/navbar.module.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/navbar.module.js.map
 
 /***/ }),
 
@@ -266,7 +266,7 @@ NavbarModule = __decorate([
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__type__ = __webpack_require__(655);
 /* harmony namespace reexport (by used) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_0__type__["a"]; });
 
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/index.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/index.js.map
 
 /***/ }),
 
@@ -302,7 +302,7 @@ AboutComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], AboutComponent);
 
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/about.component.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/about.component.js.map
 
 /***/ }),
 
@@ -355,7 +355,7 @@ AppComponent = __decorate([
 ], AppComponent);
 
 var _a, _b;
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/app.component.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/app.component.js.map
 
 /***/ }),
 
@@ -394,7 +394,7 @@ ContactComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], ContactComponent);
 
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/contact.component.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/contact.component.js.map
 
 /***/ }),
 
@@ -657,7 +657,7 @@ FeedComponent = __decorate([
 ], FeedComponent);
 
 var _a, _b, _c, _d;
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/feed.component.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/feed.component.js.map
 
 /***/ }),
 
@@ -769,14 +769,14 @@ HomeComponent = __decorate([
 ], HomeComponent);
 
 var _a, _b, _c;
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/home.component.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/home.component.js.map
 
 /***/ }),
 
 /***/ 405:
 /***/ (function(module, exports) {
 
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/api-user-response.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/api-user-response.js.map
 
 /***/ }),
 
@@ -814,7 +814,7 @@ PageNotFoundComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], PageNotFoundComponent);
 
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/pagenotfound.component.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/pagenotfound.component.js.map
 
 /***/ }),
 
@@ -1010,7 +1010,7 @@ var getIsSearchSuccess = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0_resel
 var getAreResultsAvailable = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0_reselect__["createSelector"])(getApiResponseEntities, function (entities) { return (entities.length) ? true : false; });
 var getApiResponsePage = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0_reselect__["createSelector"])(getApiResponsePages, getPaginationPage, function (pages, page) { return pages[page]; });
 var getPageEntities = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0_reselect__["createSelector"])(getApiResponsePages, getPaginationPage, function (pages, page) { return pages[page].statuses; });
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/index.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/index.js.map
 
 /***/ }),
 
@@ -1046,7 +1046,7 @@ TermsComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], TermsComponent);
 
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/terms.component.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/terms.component.js.map
 
 /***/ }),
 
@@ -1083,7 +1083,7 @@ if (__WEBPACK_IMPORTED_MODULE_3__environments_environment__["a" /* environment *
     __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2__angular_core__["enableProdMode"])();
 }
 __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__angular_platform_browser_dynamic__["a" /* platformBrowserDynamic */])().bootstrapModule(__WEBPACK_IMPORTED_MODULE_4__app___["a" /* AppModule */]);
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/main.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/main.js.map
 
 /***/ }),
 
@@ -1098,7 +1098,7 @@ var ReloactionAfterQuery;
     ReloactionAfterQuery[ReloactionAfterQuery["RELOCATE"] = 1] = "RELOCATE";
 })(ReloactionAfterQuery || (ReloactionAfterQuery = {}));
 ;
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/query.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/query.js.map
 
 /***/ }),
 
@@ -1139,7 +1139,7 @@ LoklakAboutRoutingModule = __decorate([
     })
 ], LoklakAboutRoutingModule);
 
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/about-routing.module.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/about-routing.module.js.map
 
 /***/ }),
 
@@ -1188,7 +1188,7 @@ AboutModule = __decorate([
     })
 ], AboutModule);
 
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/about.module.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/about.module.js.map
 
 /***/ }),
 
@@ -1221,7 +1221,7 @@ LoklakAppRoutingModule = __decorate([
     })
 ], LoklakAppRoutingModule);
 
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/app-routing.module.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/app-routing.module.js.map
 
 /***/ }),
 
@@ -1398,7 +1398,7 @@ AppModule = __decorate([
     })
 ], AppModule);
 
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/app.module.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/app.module.js.map
 
 /***/ }),
 
@@ -1479,7 +1479,7 @@ ContactFormComponent = __decorate([
 ], ContactFormComponent);
 
 var _a, _b;
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/contact-form.component.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/contact-form.component.js.map
 
 /***/ }),
 
@@ -1520,7 +1520,7 @@ LoklakContactRoutingModule = __decorate([
     })
 ], LoklakContactRoutingModule);
 
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/contact-routing.module.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/contact-routing.module.js.map
 
 /***/ }),
 
@@ -1580,7 +1580,7 @@ ContactModule = __decorate([
     })
 ], ContactModule);
 
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/contact.module.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/contact.module.js.map
 
 /***/ }),
 
@@ -1690,7 +1690,7 @@ ApiSearchEffects = __decorate([
 ], ApiSearchEffects);
 
 var _a, _b, _c, _d, _e;
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/api-search.effects.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/api-search.effects.js.map
 
 /***/ }),
 
@@ -1787,7 +1787,7 @@ SuggestEffects = __decorate([
 ], SuggestEffects);
 
 var _a, _b, _c, _d;
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/api-suggest.effects.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/api-suggest.effects.js.map
 
 /***/ }),
 
@@ -1892,7 +1892,7 @@ ApiUserSearchEffects = __decorate([
 ], ApiUserSearchEffects);
 
 var _a, _b, _c, _d;
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/api-usersearch.effects.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/api-usersearch.effects.js.map
 
 /***/ }),
 
@@ -1995,7 +1995,7 @@ PaginationEffects = __decorate([
 ], PaginationEffects);
 
 var _a, _b, _c, _d;
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/pagination.effects.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/pagination.effects.js.map
 
 /***/ }),
 
@@ -2171,7 +2171,7 @@ FeedCardComponent = __decorate([
 ], FeedCardComponent);
 
 var _a, _b, _c;
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/feed-card.component.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/feed-card.component.js.map
 
 /***/ }),
 
@@ -2235,7 +2235,7 @@ FeedFooterComponent = __decorate([
 ], FeedFooterComponent);
 
 var _a;
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/feed-footer.component.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/feed-footer.component.js.map
 
 /***/ }),
 
@@ -2308,7 +2308,7 @@ FeedHeaderComponent = __decorate([
 ], FeedHeaderComponent);
 
 var _a, _b;
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/feed-header.component.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/feed-header.component.js.map
 
 /***/ }),
 
@@ -2466,7 +2466,7 @@ FeedLightboxComponent = __decorate([
 ], FeedLightboxComponent);
 
 var _a, _b;
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/feed-lightbox.component.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/feed-lightbox.component.js.map
 
 /***/ }),
 
@@ -2624,7 +2624,7 @@ var Shard = (function () {
     return Shard;
 }());
 var _a;
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/feed-linker.component.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/feed-linker.component.js.map
 
 /***/ }),
 
@@ -2666,7 +2666,7 @@ FeedNotFoundComponent = __decorate([
 ], FeedNotFoundComponent);
 
 var _a;
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/feed-not-found.component.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/feed-not-found.component.js.map
 
 /***/ }),
 
@@ -2716,7 +2716,7 @@ FeedPaginationComponent = __decorate([
 ], FeedPaginationComponent);
 
 var _a;
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/feed-pagination.component.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/feed-pagination.component.js.map
 
 /***/ }),
 
@@ -2756,7 +2756,7 @@ LoklakFeedRoutingModule = __decorate([
     })
 ], LoklakFeedRoutingModule);
 
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/feed-routing.module.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/feed-routing.module.js.map
 
 /***/ }),
 
@@ -2814,7 +2814,7 @@ FeedUserCardComponent = __decorate([
 ], FeedUserCardComponent);
 
 var _a;
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/feed-user-card.component.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/feed-user-card.component.js.map
 
 /***/ }),
 
@@ -2922,7 +2922,7 @@ FeedModule = __decorate([
     })
 ], FeedModule);
 
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/feed.module.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/feed.module.js.map
 
 /***/ }),
 
@@ -3050,7 +3050,7 @@ InfoBoxComponent = __decorate([
 ], InfoBoxComponent);
 
 var _a, _b, _c;
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/info-box.component.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/info-box.component.js.map
 
 /***/ }),
 
@@ -3118,7 +3118,7 @@ UserInfoBoxComponent = __decorate([
 ], UserInfoBoxComponent);
 
 var _a;
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/user-info-box.component.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/user-info-box.component.js.map
 
 /***/ }),
 
@@ -3153,7 +3153,7 @@ FooterComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], FooterComponent);
 
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/footer.component.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/footer.component.js.map
 
 /***/ }),
 
@@ -3194,7 +3194,7 @@ LoklakHomeRoutingModule = __decorate([
     })
 ], LoklakHomeRoutingModule);
 
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/home-routing.module.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/home-routing.module.js.map
 
 /***/ }),
 
@@ -3266,7 +3266,7 @@ HomeModule = __decorate([
     })
 ], HomeModule);
 
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/home.module.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/home.module.js.map
 
 /***/ }),
 
@@ -3280,7 +3280,7 @@ HomeModule = __decorate([
 /* harmony namespace reexport (by used) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_1__app_module__["a"]; });
 
 
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/index.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/index.js.map
 
 /***/ }),
 
@@ -3315,7 +3315,7 @@ NavbarComponent = __decorate([
     __metadata("design:paramtypes", [])
 ], NavbarComponent);
 
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/navbar.component.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/navbar.component.js.map
 
 /***/ }),
 
@@ -3355,7 +3355,7 @@ LoklakPageNotFoundRoutingModule = __decorate([
     })
 ], LoklakPageNotFoundRoutingModule);
 
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/pagenotfound-routing.module.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/pagenotfound-routing.module.js.map
 
 /***/ }),
 
@@ -3398,7 +3398,7 @@ PageNotFoundModule = __decorate([
     })
 ], PageNotFoundModule);
 
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/pagenotfound.module.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/pagenotfound.module.js.map
 
 /***/ }),
 
@@ -3521,7 +3521,7 @@ var lastRecord = function (state) { return state.entities.length - 1; };
 var getAggregations = function (state) { return state.aggregations; };
 var isSelected = function (state) { return state.selectedavail; };
 var getSelectedItem = function (state) { return state.entities[state.selected]; };
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/api-response.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/api-response.js.map
 
 /***/ }),
 
@@ -3603,7 +3603,7 @@ var getUSerFollowers = function (state) { return state.followers; };
 var getUserFollowing = function (state) { return state.following; };
 var isUserResponseLoading = function (state) { return state.loading; };
 var showUserInfo = function (state) { return state.showUserInfo; };
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/api-user-response.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/api-user-response.js.map
 
 /***/ }),
 
@@ -3679,7 +3679,7 @@ function reducer(state, action) {
 var getPage = function (state) { return state.page; };
 var getPageLoading = function (state) { return state.pageLoading; };
 var getPagesAvailable = function (state) { return state.pagesAvailable; };
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/pagination.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/pagination.js.map
 
 /***/ }),
 
@@ -3763,7 +3763,7 @@ function reducer(state, action) {
 var getQuery = function (state) { return state.query; };
 var getLoading = function (state) { return state.loading; };
 var showUserFeed = function (state) { return state.showUserFeed; };
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/search.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/search.js.map
 
 /***/ }),
 
@@ -3821,7 +3821,7 @@ function reducer(state, action) {
 var getEntities = function (state) { return state.entities; };
 var isResultValid = function (state) { return state.valid; };
 var lastRecord = function (state) { return state.entities.length - 1; };
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/suggest-response.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/suggest-response.js.map
 
 /***/ }),
 
@@ -3885,7 +3885,7 @@ function reducer(state, action) {
  */
 var getQuery = function (state) { return state.query; };
 var getLoading = function (state) { return state.loading; };
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/suggest.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/suggest.js.map
 
 /***/ }),
 
@@ -3965,7 +3965,7 @@ AggregationService = AggregationService_1 = __decorate([
 ], AggregationService);
 
 var AggregationService_1, _a;
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/aggregation.service.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/aggregation.service.js.map
 
 /***/ }),
 
@@ -4046,7 +4046,7 @@ SearchService = SearchService_1 = __decorate([
 ], SearchService);
 
 var SearchService_1, _a;
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/search.service.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/search.service.js.map
 
 /***/ }),
 
@@ -4123,7 +4123,7 @@ SuggestService = SuggestService_1 = __decorate([
 ], SuggestService);
 
 var SuggestService_1, _a;
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/suggest.service.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/suggest.service.js.map
 
 /***/ }),
 
@@ -4201,7 +4201,7 @@ UserService = UserService_1 = __decorate([
 ], UserService);
 
 var UserService_1, _a;
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/user.service.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/user.service.js.map
 
 /***/ }),
 
@@ -4279,7 +4279,7 @@ var AutolinkerConfig = (function () {
     return AutolinkerConfig;
 }());
 
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/autolinker.config.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/autolinker.config.js.map
 
 /***/ }),
 
@@ -4504,7 +4504,7 @@ var countrycodearray = [
     { code: 260, name: 'Zambia (+260)' },
     { code: 263, name: 'Zimbabwe (+263)' }
 ];
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/countrycode.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/countrycode.js.map
 
 /***/ }),
 
@@ -4603,7 +4603,7 @@ InViewport = __decorate([
 ], InViewport);
 
 var _a, _b;
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/in-viewport.directive.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/in-viewport.directive.js.map
 
 /***/ }),
 
@@ -4644,7 +4644,7 @@ LoklakTermsRoutingModule = __decorate([
     })
 ], LoklakTermsRoutingModule);
 
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/terms-routing.module.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/terms-routing.module.js.map
 
 /***/ }),
 
@@ -4693,7 +4693,7 @@ TermsModule = __decorate([
     })
 ], TermsModule);
 
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/terms.module.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/terms.module.js.map
 
 /***/ }),
 
@@ -4719,7 +4719,7 @@ function actionTypeCheck(label) {
     typeCache[label] = true;
     return label;
 }
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/type.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/type.js.map
 
 /***/ }),
 
@@ -4728,15 +4728,10 @@ function actionTypeCheck(label) {
 
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return environment; });
-// The file contents for the current environment will overwrite these during build.
-// The build system defaults to the dev environment which uses `environment.ts`, but if you do
-// `ng build --env=prod` then `environment.prod.ts` will be used instead.
-// The list of which env maps to which file can be found in `angular-cli.json`.
-// The file contents for the current environment will overwrite these during build.
 var environment = {
-    production: false
+    production: true
 };
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/environment.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/environment.js.map
 
 /***/ }),
 
@@ -4794,7 +4789,7 @@ var environment = {
 
 
 
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/polyfills.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/polyfills.js.map
 
 /***/ }),
 
@@ -4922,7 +4917,7 @@ var ShowSearchResults = (function () {
     return ShowSearchResults;
 }());
 
-//# sourceMappingURL=/home/travis/build/fossasia/loklak_search/repo/src/api.js.map
+//# sourceMappingURL=/Users/vimarshchaturvedi/Desktop/Live/loklak_search/src/api.js.map
 
 /***/ }),
 
