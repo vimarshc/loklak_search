@@ -36,28 +36,28 @@ Our chat channel is on gitter here: https://gitter.im/loklak/loklak
 * npm --version >= 3
 
 ## Installation
-First we will need to install angular-cli by using the following command:
+Assuming Node and NPM has already been installed first we will need to install angular-cli by using the following command:
 ```sh
-$ npm install -g angular-cli
+$ npm install -g @angular/cli
 ```
-After installing anular-cli we need to install our required node modules, so we will do that by using the following command:
+Once @angular-cli has been installed clone the repository. 
+After the repository has been cloned we need to install the dependencies,to do so run the following commands :
 ```sh 
+$ cd loklak_search
 $ npm install
 ```
 ## How to deploy?
+One the required dependencies have been installed, you can run the project on your local machine or deploy it using Github Pages. 
 ##### Running on localhost:
-* **Step 1:** Fork loklak_search repository and clone it to your desktop
-* **Step 2:** Then cd into that cloned folder
-* **Step 3:** Deploy locally by running this :```$ ng serve```
+* **Step 1:** Deploy locally by running this :```$ ng serve```
 
 #### For deploying with [Github Pages](https://pages.github.com/):
 With these very simple steps you can have loklak_search deployed:
-* **Step 1:** Fork loklak_search repository and clone it to your desktop
-* **Step 2:** Then checkout to your master branch `$ git checkout master`
-* **Step 3:** Deploy running this : ```$ npm run deploy```
-* **Step 4:** Visit `https://yourusername.github.io/loklak_search` and you should see the search running
-* **Step 5:** As you search you might see that that it cant find anything, to resolve this, on search you will see there is a red shield on search bar, click on it and allow to load scripts
-* **Step 6:** Reload and you will have a function loklak search page deployed with github pages.
+* **Step 1:** Then checkout to your master branch `$ git checkout master`
+* **Step 2:** Deploy running this : ```$ npm run deploy```
+* **Step 3:** Visit `https://yourusername.github.io/loklak_search` and you should see the search running
+* **Step 4:** As you search you might see that that it cant find anything, to resolve this, on search you will see there is a red shield on search bar, click on it and allow to load scripts
+* **Step 5:** Reload and you will have a function loklak search page deployed with github pages.
 
 ### Loklak Server
 See here to run your own https://github.com/loklak/loklak_server (recommended), and change `apiUrl` in config accordingly. Last resource, or for production is `http://api.loklak.org
